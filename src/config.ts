@@ -17,11 +17,11 @@ export const siteConfig: SiteConfig = {
   },
   banner: {
     enable: true,
-    src: 'assets/images/output.png',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+    src: '/Kei.avif',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
     position: 'center',      // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
     credit: {
       enable: true,         // Display the credit text of the banner image
-      text: 'Blue Archive Memorial - Hayase Yuuka(Gym)',              // Credit text to be displayed
+      text: 'Blue Archive Memorial - Kei',              // Credit text to be displayed
                       // (Optional) URL link to the original artwork or artist's page
     }
   },
