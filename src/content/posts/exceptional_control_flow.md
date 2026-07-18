@@ -2,7 +2,7 @@
 title: 프로시저와 시스템 콜
 published: 2025-03-22
 description: "ECF(Exceptional Control Flow; 예외적인 제어흐름)에 대해 알아보기"
-tags: ["Computer_Science"]
+tags: ["Computer Science"]
 category: Knowledge
 draft: false
 ---
