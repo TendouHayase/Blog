@@ -26,7 +26,7 @@ import { pluginCustomCopyButton } from "./src/plugins/expressive-code/custom-cop
 import mermaid from 'astro-mermaid';
 
 export default defineConfig({
-	site: "https://blog.ushiohayase.com",
+	site: "https://blog.tendouhayase.xyz",
 	base: "/",
 	trailingSlash: "always",
 	integrations: [
