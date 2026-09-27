@@ -70,7 +70,7 @@ export const profileConfig: ProfileConfig = {
 }
 
 export const licenseConfig: LicenseConfig = {
-  enable: false,
+  enable: true,
   name: 'CC0 1.0 Universal',
   url: 'https://creativecommons.org/publicdomain/zero/1.0/',
 }
