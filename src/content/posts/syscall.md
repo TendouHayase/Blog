@@ -203,7 +203,7 @@ SSN(System Service Number)은 공식 문서에 존재하지 않을 뿐 아니라
 이 SSN은 ABI가 아니라 내부 구현 세부사항으로 버전마다 변경될 수 있습니다.
 이것은 Linux와 정면으로 대비되는데 x86-64 Linux에서 `write`의 번호는 1로 고정되어 있고, 헤더로 공개되어 있는걸 볼 수 있습니다.
 
-```ext
+```text
 // WSL2 아치리눅스 /usr/include/asm/unistd_64.h 내부
 #ifndef _ASM_UNISTD_64_H
 #define _ASM_UNISTD_64_H
